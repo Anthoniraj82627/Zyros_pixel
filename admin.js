@@ -5,11 +5,11 @@
       Open admin.js and update ADMIN_PASSWORD below.
       Keep your GitHub repo private for extra security.
    ──────────────────────────────────────────────────────── */
-const ADMIN_PASSWORD = 'ZyrosPixel2025';
+const ADMIN_PASSWORD = 'Zyros@26';
 
 /* ── State ───────────────────────────────────────────── */
 let videos  = [];
-let config  = { contactEmail: '', currency: 'USD', currencySymbol: '$' };
+let config  = { contactEmail: '', currency: 'RS', currencySymbol: '₹' };
 let editId  = null;  // null = add mode, string = edit mode
 let delId   = null;
 
