@@ -7,30 +7,28 @@
   },
   "videos": [
     {
-  "config": {
-    "contactEmail": "zyrospixel@proton.me",
-    "currency": "RS",
-    "currencySymbol": "₹",
-    "siteName": "Zyros Pixel"
-  },
-  "videos": [
-    {
-      "title": "Urban view",
-      "description": "Trees",
-      "category": "Trees nature",
-      "price": 50,
-      "resolution": "720p",
-      "duration": "60 seconds",
-      "frames": "60",
-      "thumbnailUrl": "https://ibb.co/6JVdTxzn",
-      "tags": [
-        "Urban",
-        "trees",
-        "plants"
-      ],
-      "id": "v1781331412955"
-    }
-  ]
+      "config": {
+        "contactEmail": "zyrospixel@proton.me",
+        "currency": "RS",
+        "currencySymbol": "₹",
+        "siteName": "Zyros Pixel"
+      },
+      "videos": [
+        {
+          "title": "Village trees",
+          "description": "Village trees and natural views",
+          "category": "Trees",
+          "price": 50,
+          "resolution": "720p",
+          "duration": "1 minute",
+          "frames": "60",
+          "thumbnailUrl": "https://ibb.co/LDFV4Jyt",
+          "tags": [
+            "Village trees"
+          ],
+          "id": "v1781330228916"
+        }
+      ]
     }
   ]
 }
