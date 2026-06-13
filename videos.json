@@ -15,18 +15,20 @@
   },
   "videos": [
     {
-      "title": "Village trees",
-      "description": "Village trees and natural views",
-      "category": "Trees",
+      "title": "Urban view",
+      "description": "Trees",
+      "category": "Trees nature",
       "price": 50,
       "resolution": "720p",
-      "duration": "1 minute",
+      "duration": "60 seconds",
       "frames": "60",
       "thumbnailUrl": "https://ibb.co/6JVdTxzn",
       "tags": [
-        "Village trees"
+        "Urban",
+        "trees",
+        "plants"
       ],
-      "id": "v1781330228916"
+      "id": "v1781331412955"
     }
   ]
     }
